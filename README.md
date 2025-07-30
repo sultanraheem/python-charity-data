@@ -1,4 +1,4 @@
-# Learning-Challenge
+# python-charity-data 
 
 This repository contains the code and resources for a deep learning project focused on building and training a neural network model to classify charity funding success based on organizational and application features.
 
